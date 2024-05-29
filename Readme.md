@@ -27,3 +27,5 @@ Edit the configuration in `src/main/resources/application.properties`. Possible 
 - `analytics.counter` - Number of results to be displayed per analytic.
 - `analytics.twitterDatasetCSVFilePath` - Path of the dataset csv file.
 - `analytics.chunkSize` - chunk size for processing.
+
+test
